@@ -8,7 +8,7 @@ spotify_client_id = os.environ.get("CLIENT_ID")
 spotify_client_secret = os.environ.get("CLIENT_SECRET")
 
 # Declaring needed Variables
-Spotifyusername = "harris.spencer"
+Spotifyusername = "YOUR SPOTIFY USERNAME"
 year = input("What year would you like to travel to in YYYY-MM-DD? ")
 URL = f"https://www.billboard.com/charts/hot-100/{year}"
 
